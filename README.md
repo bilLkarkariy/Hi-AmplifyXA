@@ -10,9 +10,9 @@
   <br />
   <a href="https://www.amplifyxa.com">Website</a>
   ·
-  <a href="URL_VERS_VOTRE_LINKEDIN_PERSONNEL">Founder's LinkedIn</a>
+  <a href="https://www.linkedin.com/in/billel-helali-b7a07316b/">Founder's LinkedIn</a>
   ·
-  <a href="URL_VERS_LA_PAGE_FCP">Founding-Customer Program</a>
+  <a href="https://www.amplifyxa.com">Founding-Customer Program</a>
 </p>
 
 ---
@@ -46,10 +46,10 @@ A lightweight, high-performance TypeScript library for privacy-safe UID2 email h
 ## 🤝 Get Involved
 
 *   **For CMOs & Marketing Leaders:**
-    Are you a leader who believes marketing's value should be measured in revenue, not just clicks? We are building our platform with 12 visionary partners. Learn more about our **[Founding-Customer Program](URL_VERS_LA_PAGE_FCP)**.
+    Are you a leader who believes marketing's value should be measured in revenue, not just clicks? We are building our platform with 12 visionary partners. Learn more about our **https://www.amplifyxa.com**.
 
 *   **For Engineers & Builders:**
-    Are you passionate about solving complex data problems that have a real impact on business? We're building a culture of engineering excellence focused on clarity and results. Follow our journey here and on [LinkedIn](URL_VERS_VOTRE_LINKEDIN_PERSONNEL).
+    Are you passionate about solving complex data problems that have a real impact on business? We're building a culture of engineering excellence focused on clarity and results. Follow our journey here and on [LinkedIn](https://www.linkedin.com/in/billel-helali-b7a07316b/).
 
 ---
 
