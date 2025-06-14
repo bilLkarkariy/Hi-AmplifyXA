@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DE_VOTRE_LOGO_AMPLIFYXA" alt="AmplifyXA Logo" width="120"/>
+  <img src="https://i.ibb.co/Hp9yh127/amplify-XA-logo.png" alt="AmplifyXA Logo" width="120"/>
 </p>
 
 <h1 align="center">AmplifyXA</h1>
