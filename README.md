@@ -8,7 +8,7 @@ I'm an engineer obsessed with building technology that solves real-world busines
 
 ### 💡 About Me
 
-After a decade in the French Tech ecosystem, including contributing to the growth of **Arcane (acquired by Labelium)**, I noticed a recurring pattern: marketing leaders, armed with dozens of tools, still struggle to answer one simple question from their board: "What was the ROI of our marketing spend?"
+After a decade in the French Tech ecosystem, I noticed a recurring pattern: marketing leaders, armed with dozens of tools, still struggle to answer one simple question from their board: "What was the ROI of our marketing spend?"
 
 I realized this wasn't a marketing problem, but a systems engineering problem. I founded AmplifyXA to solve it.
 
