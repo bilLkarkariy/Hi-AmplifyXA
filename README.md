@@ -1,31 +1,58 @@
-# Hi, I'm Billel Helali 👋
+<p align="center">
+  <img src="URL_DE_VOTRE_LOGO_AMPLIFYXA" alt="AmplifyXA Logo" width="120"/>
+</p>
 
-### Founder & CEO at [AmplifyXA](https://www.amplifyxa.com)
+<h1 align="center">AmplifyXA</h1>
 
-I'm an engineer obsessed with building technology that solves real-world business problems.
+<p align="center">
+  <strong>Stop Defending Budgets. Start Proving Revenue.</strong>
+  <br />
+  <br />
+  <a href="https://www.amplifyxa.com">Website</a>
+  ·
+  <a href="URL_VERS_VOTRE_LINKEDIN_PERSONNEL">Founder's LinkedIn</a>
+  ·
+  <a href="URL_VERS_LA_PAGE_FCP">Founding-Customer Program</a>
+</p>
 
 ---
 
-### 💡 About Me
+## 🚀 Our Mission
 
-After a decade in the French Tech ecosystem, I noticed a recurring pattern: marketing leaders, armed with dozens of tools, still struggle to answer one simple question from their board: "What was the ROI of our marketing spend?"
+AmplifyXA is the AI-powered attribution platform for visionary CMOs. Our mission is to transform marketing from a cost center into a proven revenue engine by connecting every marketing euro to its financial outcome.
 
-I realized this wasn't a marketing problem, but a systems engineering problem. I founded AmplifyXA to solve it.
+We build technology to bring financial clarity to marketing, enabling leaders to pilot their growth with data-backed confidence.
 
-Our mission is to bring financial clarity to marketing by building the first **"Attribution-First"** intelligence platform.
+## 💡 Our Philosophy
 
-### 🚀 What I'm working on at AmplifyXA
+We build on three core principles:
 
-- Building our core data ingestion pipeline to connect with CRMs like HubSpot and Salesforce.
-- Developing our proprietary attribution models using Python and machine learning.
-- Architecting a scalable infrastructure on AWS to serve our founding customers.
+1.  **Attribution First:** Before you can optimize, you must measure accurately. We believe a reliable, unified view of revenue attribution is the non-negotiable foundation for any intelligent marketing strategy.
 
-### 🌱 My Core Principles
-- **Clarity over Complexity:** If a feature doesn't make things simpler, we don't build it.
-- **Data-Backed Decisions:** Every line of code should ultimately serve a business outcome.
-- **Authentic Partnership:** Co-building our platform with our first customers.
+2.  **Clarity Over Complexity:** The MarTech landscape is noisy. Our job is to find the signal. We translate data chaos into clear, actionable business insights, not just another complex dashboard.
 
-### 📫 Let's Connect
+3.  **Partnership Over Product:** We build *with* our customers, not just *for* them. Our "Founding-Customer Program" is at the heart of our development, ensuring every feature solves a real-world CMO challenge.
 
-- I'm always open to talking with CMOs and marketing leaders about their attribution challenges. Find me on [**LinkedIn**](https://www.linkedin.com/in/your-profile-url/).
-- If you're an engineer passionate about solving complex data problems, check out our vision at [**AmplifyXA**](https://www.amplifyxa.com).
+## 🛠️ Featured Open Source Project
+
+As part of our commitment to robust and transparent engineering, we contribute to the open-source ecosystem.
+
+### [@amplifyxa/uid2](https://github.com/bilLkarkariy/amplifyxa-uid2)
+
+A lightweight, high-performance TypeScript library for privacy-safe UID2 email hashing, built to IAB specs.
+
+**Why it matters:** This library is a core component of our commitment to building a secure and privacy-centric attribution engine. Accurate attribution requires precise identity resolution, and doing so while respecting user privacy is fundamental to our approach.
+
+## 🤝 Get Involved
+
+*   **For CMOs & Marketing Leaders:**
+    Are you a leader who believes marketing's value should be measured in revenue, not just clicks? We are building our platform with 12 visionary partners. Learn more about our **[Founding-Customer Program](URL_VERS_LA_PAGE_FCP)**.
+
+*   **For Engineers & Builders:**
+    Are you passionate about solving complex data problems that have a real impact on business? We're building a culture of engineering excellence focused on clarity and results. Follow our journey here and on [LinkedIn](URL_VERS_VOTRE_LINKEDIN_PERSONNEL).
+
+---
+
+<p align="center">
+  Built with ❤️ for revenue-driven CMOs.
+</p>
